@@ -1,4 +1,4 @@
-package com.sapient.devops.scm
+package org.foo
 
 String WORKSPACE = pwd()
 
