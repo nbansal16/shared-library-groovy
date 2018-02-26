@@ -1,5 +1,3 @@
-
-
 import org.foo.Zot
 
 def call(String name) {
