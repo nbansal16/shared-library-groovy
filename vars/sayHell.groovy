@@ -1,6 +1,6 @@
-import org.foo.test
+import org.foo.testgrrovy
 
 def call(String name = 'human') {
-  def test = new test()
+  def test = new testgrrovy()
       test.sayHel('Nidhi')
 }
