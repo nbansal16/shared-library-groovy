@@ -1,5 +1,5 @@
-import com.sapient.devops.scm.git
-import org.foo..gitEmail
+import org.foo.git
+import org.foo.gitEmail
 
 def call(body) 
 {
